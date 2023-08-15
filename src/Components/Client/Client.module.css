@@ -1,0 +1,42 @@
+.cli{
+    margin-top: 10%;
+    background-image: url(../../img/purpleblur.png);
+    width: 100%;
+
+}
+/* .test{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+} */
+.image{
+    width: 200px !important;
+    height: 100px !important;
+    border-radius: 50%;
+    margin-bottom: 20px;
+
+}
+.text{
+    border: solid 5px rosybrown;
+    border-radius: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+    margin-bottom: 50px;
+
+
+
+
+    
+}
+.mySwiper{
+    width: 50%;
+
+}
+
+.swiper-pagination-bullet-active {
+    color: #fa0c0c !important;
+}

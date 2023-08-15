@@ -1,0 +1,30 @@
+.deg{
+    margin-top: 30%;
+}
+.degr{
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    align-items: center;
+    text-align: center;
+}
+.deg1{
+    border: solid 10px orange;
+    padding: 30px;
+    margin: auto;
+
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.deg1 p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin-top: 5px;
+
+}
+.ora{
+    color: orange;
+}

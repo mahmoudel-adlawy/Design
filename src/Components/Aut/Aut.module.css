@@ -1,0 +1,35 @@
+.ora{
+    color: orange;
+}
+.get{
+    margin-top: 10%;
+}
+.get1{
+    text-align: center;
+}
+.inp{
+    border: solid 2px orange;
+    border-radius: 10px 20px;
+    padding: 5px;
+    width: 50%;
+    margin-bottom: 10px;
+}
+.text{
+    border: solid 2px orange;
+    border-radius: 10px 20px;
+    padding: 20px 10px;
+    width: 50%;
+}
+.get2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+@media screen and (max-width:766px) {
+    .get2 {
+        margin-left: 25%;
+
+
+    }
+}
